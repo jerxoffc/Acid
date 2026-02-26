@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JERX | Techno</title>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+<style>
+body {
+    margin: 0;
+    background: #0a0a0a;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+}
+
+header {
+    padding: 100px 20px;
+    background: linear-gradient(180deg, #111, #000);
+}
+
+h1 {
+    font-size: 60px;
+    letter-spacing: 10px;
+}
+
+.tagline {
+    color: #b30000;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.section {
+    padding: 60px 20px;
+}
+
+button {
+    background: #b30000;
+    border: none;
+    padding: 15px 40px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #ff0000;
+}
+
+footer {
+    padding: 20px;
+    background: #111;
+    font-size: 14px;
+    opacity: 0.6;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>JERX</h1>
+    <div class="tagline">RAW TECHNO ENERGY</div>
+</header>
+
+<div class="section">
+    <h2>Latest Release</h2>
+    <p>ANGEL DANCE</p>
+    <button onclick="window.open('https://soundcloud.com','_blank')">
+        Listen Now
+    </button>
+</div>
+
+<div class="section">
+    <h2>About</h2>
+    <p>Dark industrial techno project pushing raw energy and underground sound.</p>
+</div>
+
+<footer>
+    © 2026 JERX | All Rights Reserved
+</footer>
+
+</body>
+</html>
