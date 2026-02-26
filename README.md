@@ -67,8 +67,21 @@ footer {
 <div class="section">
     <h2>Latest Release</h2>
     <p>ANGEL DANCE</p>
-    <button onclick="window.open('https://soundcloud.com','_blank')">
-        Listen Now
+       <button onclick="window.open('https://soundcloud.com/bekajeriashvili','_blank')">
+       SOUNDCLOUD
+    </button>
+ <button onclick="window.open('https://www.facebook.com/beka.jeriashvili','_blank')">
+       FACEBOOK
+    </button>
+<button onclick="window.open('https://www.instagram.com/jerx.music','_blank')">
+       INSTAGRAM
+    </button>
+</button>
+<button onclick="window.open('https://jerx.bandcamp.com','_blank')">
+       BANDCAMP
+    </button>
+<button onclick="window.open('https://open.spotify.com/artist/2I6qLvorI5W71nSdyXpY5h/discography/all?fbclid=IwY2xjawQMeMFleHRuA2FlbQIxMABicmlkETJuWkdVYWI2RUl2Y05jZ3JUc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqrT3_7G-FxBRPUxwsa_UerwDmsYMsWPoDmM7b9F2RpsMQ0p9CDL5tO8kHGK_aem_BeUguC7zGhOMNj5jwhyWlA','_blank')">
+       SPOTIFY
     </button>
 </div>
 
